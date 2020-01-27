@@ -1,9 +1,14 @@
+# Using GitHub to Make Your Life a Whole Lot Easier :octocat: :+1:
+
+
+
+
 # The Basics
 
 
 
 
-.gitignore file:
+# Ignoring folders (like ones that are too big) via a .gitignore file:
 
 ## ignore all .a files
 *.a
