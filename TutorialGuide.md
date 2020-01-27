@@ -1,6 +1,8 @@
 
 # Using GitHub to Make Your Life a Whole Lot Easier  :+1:
+![](http://www.phdcomics.com/)
 
+![](https://bids.github.io/2015-06-04-berkeley/git/fig/play-changes.svg)
 
 # Introduction
 * Git versus GitHub
@@ -25,10 +27,21 @@ git push origin master
 ```
 
 
-2.  But if you are both frequently pushing/pulling *and you trust this person* You can add collaborators so that you can avoid pull requests
+2.  But if you are both frequently pushing/pulling *and you trust this person to not constantly break your code* you can add collaborators so that you can avoid pull requests
+
+# How to be a good collaborator (and just good rules in general)
+
+1. Use commit messages that make sense
+2. Push often, push always
+3. Develop on a dev branch, keep your master branch deployable
+
 
 
 ![git out](https://rafikitechnology.files.wordpress.com/2019/07/git-emergency-procedure.png)
+
+# But what happens if you mess up?
+![](http://swcarpentry.github.io/git-novice/fig/conflict.svg)
+
 
 
 
