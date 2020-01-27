@@ -20,7 +20,7 @@ http://onlywei.github.io/explain-git-with-d3/#commit
 # Collaborating with Others on GitHub
 
 
-![git out](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCqzJkJ_VYAA5CtM.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fsmartertools%2Fstatus%2F769211721386827776&docid=89hBZUsfY4GbIM&tbnid=WtMhfZ4lCFHs2M%3A&vet=10ahUKEwjbqYOUl6TnAhV9HDQIHcuMB24QMwhTKAUwBQ..i&w=440&h=441&bih=920&biw=1920&q=git%20push%20git%20out%20fire&ved=0ahUKEwjbqYOUl6TnAhV9HDQIHcuMB24QMwhTKAUwBQ&iact=mrc&uact=8)
+![git out](https://rafikitechnology.files.wordpress.com/2019/07/git-emergency-procedure.png)
 
 
 
