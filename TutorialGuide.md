@@ -50,27 +50,27 @@ git push origin master
 
 ## Ignoring folders (like ones that are too big or have your passwords) via a .gitignore file:
 
-## ignore all .a files
+ ignore all .a files
 ```
 *.a
 ```
-## but do track lib.a, even though you're ignoring .a files above
+ but do track lib.a, even though you're ignoring .a files above
 ```
 !lib.a
 ```
-## only ignore the TODO file in the current directory, not subdir/TODO
+ only ignore the TODO file in the current directory, not subdir/TODO
 ```
 /TODO
 ```
-## ignore all files in any directory named build
+ ignore all files in any directory named build
 ```
 build/
 ```
-## ignore doc/notes.txt, but not doc/server/arch.txt
+ ignore doc/notes.txt, but not doc/server/arch.txt
 ```
 doc/*.txt
 ```
-## ignore all .pdf files in the doc/ directory and any of its subdirectories
+ ignore all .pdf files in the doc/ directory and any of its subdirectories
 ```
 *.pdf
 ```
@@ -83,4 +83,16 @@ $ git reset [commit]
 Undoes all commits after [commit], preserving changes locally
 ```
 $ git reset --hard [commit]
+```
+
+if you're not sure?
+```
+git stash
+git pulling
+```
+
+and when you've decided that you just should have stayed in bed today and not broken your entire code/app
+
+```
+git reset --hard HEAD
 ```
