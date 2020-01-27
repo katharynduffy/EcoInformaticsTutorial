@@ -1,4 +1,5 @@
-# Using GitHub to Make Your Life a Whole Lot Easier :octocat: :+1:
+:octocat:
+# Using GitHub to Make Your Life a Whole Lot Easier  :+1:
 
 
 
