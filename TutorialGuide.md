@@ -39,29 +39,37 @@ git push origin master
 
 ![git out](https://rafikitechnology.files.wordpress.com/2019/07/git-emergency-procedure.png)
 
-# But what happens if you mess up?
+# But what happens if you mess up?  
+(E.g. you forget to push or you are editing the same chunk of your code as a collaborator)
+
 ![](http://swcarpentry.github.io/git-novice/fig/conflict.svg)
 
 
+# A Few More Basics
 
 
-# Ignoring folders (like ones that are too big) via a .gitignore file:
+## Ignoring folders (like ones that are too big or have your passwords) via a .gitignore file:
 
 ## ignore all .a files
+```
 *.a
-
+```
 ## but do track lib.a, even though you're ignoring .a files above
+```
 !lib.a
-
+```
 ## only ignore the TODO file in the current directory, not subdir/TODO
+```
 /TODO
-
+```
 ## ignore all files in any directory named build
+```
 build/
-
+```
 ## ignore doc/notes.txt, but not doc/server/arch.txt
+```
 doc/*.txt
-
+```
 ## ignore all .pdf files in the doc/ directory and any of its subdirectories
 ```
 *.pdf
