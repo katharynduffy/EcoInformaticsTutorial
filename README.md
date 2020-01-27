@@ -20,6 +20,7 @@ http://onlywei.github.io/explain-git-with-d3/#commit
 3. Make changes on your own machine
 4. Save and push to GitHub :octocat:
 5. Hey Bijan, I'm going to work on this now
+6.  Here's another one
 
 # Collaborating with Others on GitHub
 
