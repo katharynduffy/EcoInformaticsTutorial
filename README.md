@@ -1,9 +1,6 @@
-# EcoInformaticsTutorial
-Demo for the Spring 2020 seminar
-
--------
 
 # Using GitHub to Make Your Life a Whole Lot Easier  :+1:
+----
 ![](http://www.phdcomics.com/)
 
 ![](https://bids.github.io/2015-06-04-berkeley/git/fig/play-changes.svg)
@@ -78,7 +75,7 @@ doc/*.txt
 ```
 *.pdf
 ```
-# What to do when everything goes south....
+## What to do when everything goes south....
 
 Erase mistakes and craft replacement history
 ```
