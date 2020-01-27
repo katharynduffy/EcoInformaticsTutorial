@@ -4,7 +4,7 @@
 
 # Introduction
 * Git versus GitHub
-![git vs. github](/Users/kdw223/Research/PostDoc/EcoInformaticsTutorial/images/Gitvs.Github-1a.jpg)
+![git vs. github](https://blog.devmountain.com/wp-content/uploads/2019/07/Gitvs.Github-1a.jpg)
 
 # How does Git work?
 http://onlywei.github.io/explain-git-with-d3/#commit
