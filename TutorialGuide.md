@@ -19,6 +19,14 @@ http://onlywei.github.io/explain-git-with-d3/#commit
 
 # Collaborating with Others on GitHub
 
+1. Generally you submit a pull request to a repo that someone else manages
+```
+git push origin master
+```
+
+
+2.  But if you are both frequently pushing/pulling *and you trust this person* You can add collaborators so that you can avoid pull requests
+
 
 ![git out](https://rafikitechnology.files.wordpress.com/2019/07/git-emergency-procedure.png)
 
@@ -42,4 +50,16 @@ build/
 doc/*.txt
 
 ## ignore all .pdf files in the doc/ directory and any of its subdirectories
-doc/**/*.pdf
+```
+*.pdf
+```
+# What to do when everything goes south....
+
+Erase mistakes and craft replacement history
+```
+$ git reset [commit]
+```
+Undoes all commits after [commit], preserving changes locally
+```
+$ git reset --hard [commit]
+```
