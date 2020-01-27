@@ -4,7 +4,10 @@
 
 # Introduction
 * Git versus GitHub
-![](/Users/kdw223/Research/PostDoc/EcoInformaticsTutorial/images/Gitvs.Github-1a.jpg)
+![git vs. github](/Users/kdw223/Research/PostDoc/EcoInformaticsTutorial/images/Gitvs.Github-1a.jpg)
+
+# How does Git work?
+http://onlywei.github.io/explain-git-with-d3/#commit
 
 # The Basics
 1. Git init a repo
