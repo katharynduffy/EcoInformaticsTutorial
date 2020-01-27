@@ -1,10 +1,17 @@
-:octocat:
+
 # Using GitHub to Make Your Life a Whole Lot Easier  :+1:
 
 
-
+# Introduction
+* Git versus GitHub
+![](/Users/kdw223/Research/PostDoc/EcoInformaticsTutorial/images/Gitvs.Github-1a.jpg)
 
 # The Basics
+1. Git init a repo
+2. Clone a repo onto your own machine
+3. Make changes on your own machine
+  * save and push to :octocat:
+
 
 
 
