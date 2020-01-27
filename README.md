@@ -19,7 +19,7 @@ http://onlywei.github.io/explain-git-with-d3/#commit
 2. Clone a repo onto your own machine
 3. Make changes on your own machine
 4. Save and push to GitHub :octocat:
-5. test test
+5. 
 
 # Collaborating with Others on GitHub
 
